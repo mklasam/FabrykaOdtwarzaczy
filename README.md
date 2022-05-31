@@ -1,6 +1,6 @@
 # FabrykaOdtwarzaczy
 
-- It's a simple video playerfactory.
+- It's a simple video player factory.
 
 
 # Introduction
